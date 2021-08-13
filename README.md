@@ -13,7 +13,7 @@ A CBPaaS is a cloud-based platform that enables developers to create chatbots wi
 How to create bot?
 1. Create bot with [@BotFather](https://telegram.me/BotFather) and take Secret Token
 2. Create bot in App and add Secret Token
-3. Add Public Key from App as [Deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys) with read access (and write access for bot exporting if you need it)
+3. Add Public Key from App as [Deploy keys](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys) with read access (and write access for bot exporting if you need it)
 4. Do import for this git repo
 
 Now you can talk with yours new Telegram Bot
